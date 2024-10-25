@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm  Keerthiraj D V </h1>
 
-<h3 align="center"> Full stack Developer </h3>
+<h3 align="center"> 👩‍💻 Full stack Developer </h3>
 
 <br> 💞️ I’m looking to collaborate on <strong> IT role </strong> 
 
