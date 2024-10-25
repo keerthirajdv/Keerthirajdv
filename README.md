@@ -1,4 +1,4 @@
-![logo](https://github.com/keerthirajdv/keerthirajdv1/commit/50083665b443a39e95fb51fc455c097fb337bd38.png)
+![logo](https://github.com/keerthirajdv/Keerthirajdv/blob/main/keerthiraj.png)
 <h1 align="center"> Hi 👋, I'm  Keerthiraj D V </h1>
 
 <h3 align="center"> 👩‍💻 Full stack Developer </h3>
